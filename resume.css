@@ -1,0 +1,135 @@
+body{
+    background-color:black;
+    width: 50%;
+    height: 40%;
+}
+.container{
+    background-color:white;
+    height: 140vh;
+    width: 70vw;
+    display:grid;
+    grid-template-columns: 1fr 2fr;
+    margin-left: 200px;
+    
+}
+.left_side{
+    background-color: #0c97ed;
+  
+
+    
+}
+.profileText{
+    height: 280px;
+    width: 250px;
+    color: white;
+    
+    
+
+} 
+.profileImage{
+   
+    height: 100%; ;
+    width: 100%; ;
+    align-items: center;
+    margin-left: 80px;
+    border-bottom:1px solid rgb(40, 16, 147);
+
+}
+img{
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+  
+    
+
+}
+h1{
+    margin-left: 0px;
+    text-align: center;
+}   
+
+.contact{
+    height: 250px;
+    width: 250;
+    color: white;
+    margin-right: 10px;
+    padding: 20px;
+    
+}
+ 
+
+
+h2{
+    margin-left: 60px;
+    color:#0c97ed;  
+    
+}
+h3{
+    margin-left: 80px;
+}
+.icons{
+    margin-left: 30px;
+    color: #0b0b17;
+}
+.text{
+    margin-left: 10px;
+}
+.education{
+    height: 90px;
+    width: 150;
+    color: white;
+    margin-right: 10px;
+    
+    
+    
+}
+.year{
+    margin-left: 30px;
+    color:#0b0b17;
+}
+.course{
+    margin-left: 30px;
+    
+}
+.college{
+    margin-left: 30px;
+    color: #131159;
+    
+}
+.language{
+    color: white;
+     margin-left: 30px;
+}
+.right_side{
+    background-color:white;
+    
+}
+.objective{
+    margin-top: 50px;
+    margin-left: 20px;
+    height: 100px;
+    width:150x;
+   
+}
+
+li{
+    color: black;
+    font-size: large;
+    margin-left: 30px;
+}
+p{
+    color: black;
+    font-size: large;
+    margin-left: 30px;
+}
+.link{
+    margin-left: 60px;
+}
+.language{
+    margin-left: 0px;
+}
+a{
+    color: blue;
+
+}
